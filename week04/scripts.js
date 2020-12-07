@@ -32,3 +32,9 @@ elPassword2.addEventListener("blur", function () {
     let a = document.getElementById("kataLaluan2");
     checkPasswordLength2(a.value);
 });
+
+let metallica = document.getElementById("metallicaLink");
+metallica.addEventListener("click", function () {
+    event.preventDefault();
+    alert(metallicaLink.href);
+});
