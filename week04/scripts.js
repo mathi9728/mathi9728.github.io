@@ -6,4 +6,3 @@ function transformUpperCase() {
 let elUsername = document.getElementById("namaPengguna");
 elUsername.addEventListener("keyup", transformUpperCase);
 
-transformUpperCase();
