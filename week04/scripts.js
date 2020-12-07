@@ -12,7 +12,7 @@ function checkPasswordLength() {
     if (password.length < 5) {
         alert('password must be more than 5 characters');
     } else {
-        alert('Password Accepted')
+        alert('Password Accepted');
     }
 }
 
