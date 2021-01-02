@@ -1,0 +1,98 @@
+.Maintitle{
+color: white;
+width: auto;
+display: flex;
+justify-content: center;
+font-family: sans-serif;
+
+
+}
+
+body{
+    background-color:#E77471;
+    
+    
+    
+}
+
+.player1{
+ 
+    display: flex;
+  justify-content:center;
+  
+}
+
+
+
+.firstSongPoster{
+    display: flex;
+    justify-content:center;
+    
+
+}
+
+.imgPoster1{
+    width: 254px;
+    height: 254px;
+    
+    
+}
+
+.secondSongPosterOpener{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.secondSongOpener{
+display: flex;
+justify-content: center;
+
+
+}
+
+.set1{
+
+    display: block;
+
+}
+
+.set2Opener{
+
+    display: block;
+    
+}
+
+.songSelector{
+    background-color: #E55451;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    
+}
+
+.set2{
+    display: none;
+}
+
+.SecondSongPoster{
+    display: flex;
+    justify-content:center;
+    
+
+}
+
+.player2{
+ 
+    display: flex;
+  justify-content:center;
+  
+}
+
+.imgPoster2{
+    width: 254px;
+    height: 254px;
+    
+    
+}
